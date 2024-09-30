@@ -1,0 +1,46 @@
+
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ 
+
+FUNKCIA Č.1
+Čítanie parametrov zo stĺpcov č.1 a č.2 
+**METÓDA NAJMENŠÍCH ŠTVORCOV**
+Polynóm 1. stupňa: 57.656667*x + -56.386667
+Polynóm 2. stupňa: -6.250036*x^2 + 47.309385*x + 8.335930
+
+**LAGRANGEOV INTERPOLAČNÝ POLYNÓM**
+Lagrangeov interpolačný polynóm je 3.stupňa a má tvar: 
+3.0000*x^3 + 0.0000*x^2 + 2.0000*x^1 + -7.0000 
+
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ 
+
+FUNKCIA Č.2
+Čítanie parametrov zo stĺpcov č.3 a č.4 
+**METÓDA NAJMENŠÍCH ŠTVORCOV**
+Polynóm 1. stupňa: 53.487544*x + 56.914591
+Polynóm 2. stupňa: 20.006636*x^2 + 12.121510*x + -106.698398
+
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ 
+
+FUNKCIA Č.3
+Čítanie parametrov zo stĺpcov č.5 a č.6 
+**METÓDA NAJMENŠÍCH ŠTVORCOV**
+Polynóm 1. stupňa: -4.433962*x + 28.575472
+Polynóm 2. stupňa: 8.000000*x^2 + -11.000000*x + 2.500000
+
+**LAGRANGEOV INTERPOLAČNÝ POLYNÓM**
+Lagrangeov interpolačný polynóm je 3.stupňa a má tvar: 
+4.4409e-16*x^3 + 8.0000*x^2 + -11.0000*x^1 + 2.5000 
+
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ 
+
+FUNKCIA Č.4
+Čítanie parametrov zo stĺpcov č.7 a č.8 
+ERROR: Zlý vstup! V tejto dvojici stĺpcov nesedí rovnaký počet hodnôt.
+
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ 
+
+FUNKCIA Č.5
+Čítanie parametrov zo stĺpcov č.9 a č.10 
+**METÓDA NAJMENŠÍCH ŠTVORCOV**
+Polynóm 1. stupňa: 41.922553*x + 51.847660
+Polynóm 2. stupňa: 6.942460*x^2 + -13.599399*x + 26.630283

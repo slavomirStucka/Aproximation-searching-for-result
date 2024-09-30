@@ -1,0 +1,56 @@
+-------------------------------------------------
+1. RIADOK : 
+1. Koreň : 
+Metóda Regula-falsi počet krokov: 6 
+Newtonova metóda počet krokov: 6 
+
+Odhad chyby riešenia metódou Regula-falsi: 0.004798956. 
+Odhad chyby riešenia Newtonova metóda: 2.8395459e-14. 
+Rozdiel odhadu chýb riešenia pre metódu Regula-falsi a Newtonovu metódu: 0.004798956. 
+
+Aproximácia riešenia metódou Regula-falsi: -3.067218864. 
+Aproximácia riešenia Newtonova metóda: -3.071987407. 
+Rozdiel aproximácií riešenia pre metódu Regula-falsi a Newtonovu metódu: 0.004768543. 
+
+
+2. Koreň : 
+Metóda Regula-falsi počet krokov: 4 
+Newtonova metóda počet krokov: 5 
+
+Odhad chyby riešenia metódou Regula-falsi: 0.001494598. 
+Odhad chyby riešenia Newtonova metóda: 0.0000000e+00. 
+Rozdiel odhadu chýb riešenia pre metódu Regula-falsi a Newtonovu metódu: 0.001494598. 
+
+Aproximácia riešenia metódou Regula-falsi: 3.389598600. 
+Aproximácia riešenia Newtonova metóda: 3.391088950. 
+Rozdiel aproximácií riešenia pre metódu Regula-falsi a Newtonovu metódu: 0.001490349. 
+
+
+-------------------------------------------------
+5. RIADOK : 
+1. Koreň : 
+Metóda Regula-falsi počet krokov: 5 
+Newtonova metóda počet krokov: 7 
+
+Odhad chyby riešenia metódou Regula-falsi: 0.033563741. 
+Odhad chyby riešenia Newtonova metóda: 2.2199754e-16. 
+Rozdiel odhadu chýb riešenia pre metódu Regula-falsi a Newtonovu metódu: 0.033563741. 
+
+Aproximácia riešenia metódou Regula-falsi: 0.629552929. 
+Aproximácia riešenia Newtonova metóda: 0.597063955. 
+Rozdiel aproximácií riešenia pre metódu Regula-falsi a Newtonovu metódu: 0.032488974. 
+
+
+2. Koreň : 
+Metóda Regula-falsi počet krokov: 3 
+Newtonova metóda počet krokov: 6 
+
+Odhad chyby riešenia metódou Regula-falsi: 0.025547158. 
+Odhad chyby riešenia Newtonova metóda: 0.0000000e+00. 
+Rozdiel odhadu chýb riešenia pre metódu Regula-falsi a Newtonovu metódu: 0.025547158. 
+
+Aproximácia riešenia metódou Regula-falsi: 1.633099610. 
+Aproximácia riešenia Newtonova metóda: 1.656405230. 
+Rozdiel aproximácií riešenia pre metódu Regula-falsi a Newtonovu metódu: 0.023305620. 
+
+

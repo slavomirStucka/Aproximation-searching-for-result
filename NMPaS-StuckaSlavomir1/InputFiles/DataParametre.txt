@@ -1,0 +1,14 @@
+"info, a, b, c, d, k, p, q, r, s, LB, UB, epsilon"
+1,1,1,-7,-120,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.005
+1,NaN,1,1,-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.005
+1,0.5,2,-8,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0005
+1,2,-1,8,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0001
+1,0.5,2,-8,4,NaN,-11,NaN,NaN,NaN,NaN,NaN,0.05
+2,1,0,-9,NaN,1,NaN,1,1,4,8,10,0.0005
+2,0,0,1,NaN,1,NaN,-4,1,0,-3,2,0.0001
+2,2,-4,3,-9,1,NaN,8,NaN,NaN,-5,-1,0.001
+2,1,-8,5,0,4,NaN,1,NaN,NaN,-1,6,0.000001
+2,2,NaN,NaN,NaN,3,NaN,1,NaN,NaN,-pi/2,3*pi/2,0.0001
+2,1,NaN,NaN,NaN,4,NaN,4,NaN,NaN,0,1,0.01
+2,NaN,NaN,NaN,2,NaN,6,-18,NaN,NaN,2,4,0.0005
+2,NaN,NaN,NaN,0.5,NaN,-2,-10,NaN,NaN,-3,-1,0.0001
